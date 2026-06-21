@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0-alpha.1",
+  "pub_date": "2026-06-21T15:52:45Z",
+  "notes": "",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/KiyoshiTheDevil/Kodama/releases/download/v1.0.0-alpha.1/Kodama_1.0.0-alpha.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdmg2dVJWSk1sRnExOW1VYXZsUVpEbklvcGdnZTl5ZWQ4d1pJWUZ3WkZYaFNxTk4yL2RVV3dCTGtNbDBXWTVZemhMQlBEaTMwS0pqQnZkTG9OTHdzSXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDU3MDczCWZpbGU6S29kYW1hXzEuMC4wLWFscGhhLjFfeDY0LXNldHVwLmV4ZQpmVHpVSjNucHZ5NDlkRzRENXJEM2Jjbld1VXVLTVZsWkhscEhVN2hFNDUxWndQNEFXS0hKUXphU0lBZzdmRmt5S2VkV05LSU50d252eUVPc25iZVdEdz09Cg=="
+    }
+  }
+}
