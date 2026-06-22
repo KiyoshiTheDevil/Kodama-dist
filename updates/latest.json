@@ -1,15 +1,15 @@
 {
-  "version": "v1.0.0-alpha.6",
-  "pub_date": "2026-06-21T23:15:43Z",
-  "notes": "Kodama v1.0.0-alpha.6",
+  "version": "v1.0.0-alpha.7",
+  "pub_date": "2026-06-22T00:02:36Z",
+  "notes": "Kodama v1.0.0-alpha.7",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/KiyoshiTheDevil/Kodama-dist/releases/download/v1.0.0-alpha.6/Kodama_1.0.0-alpha.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdnF1YnJDdWVEeUsyMXByaGw4dWp4b3huMUdvTldDcVVHLzBvakM0OXkwNTN3R0ZxREZwMGhsMm5zNWtXZm9FZmx4MEloZ215UXRWSUNZVmlzUWQ2elFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDgzNjQwCWZpbGU6S29kYW1hXzEuMC4wLWFscGhhLjZfeDY0LXNldHVwLmV4ZQpWdUZuZ2lNUUlocmNkQjMwdXFXUGgvOHU1bCsxbVJoSUJXd2pLeTBxRDJsa0psNXZYbHVhQTNEUmJMaVZscGRTUW0ySTJlLzRyeWV5OGE0SkR6anNCZz09Cg=="
+      "url": "https://github.com/KiyoshiTheDevil/Kodama-dist/releases/download/v1.0.0-alpha.7/Kodama_1.0.0-alpha.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdnA4V2NHQnF6ZndmekxQa3JFWmVWOE8vU1ZRdGh4c2VLdGNzTmwweVRwckl1K1h1SFdjSk1OTHpVY1pzQllETTNBTEYzWFlZcEhyVCt3Mjc4QlgyaHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDg1OTExCWZpbGU6S29kYW1hXzEuMC4wLWFscGhhLjdfeDY0LXNldHVwLmV4ZQpwM0FQQUc1Q1QzZEFOdWpwUk5XdUROTlI1eTBlOGVrLzJkUEpNcWY3SVFoTVBFTFNaOTJCT1dzS0Rkc0ZnY2g3WUxsWURucTJOdnBlSkZTT2xkNlVBQT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/KiyoshiTheDevil/Kodama-dist/releases/download/v1.0.0-alpha.6/Kodama.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdmlrQm40M3ZLaFplUGp5SzVmQUg1blFUTWlkRUxHY0lPQm1BVzJiQzEwaTR2dUJoQXVkR0RNUmlYZ09jbGZmNExyTHVlMnBoNHRrQURvY1RIbHNHSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDgyNjg2CWZpbGU6S29kYW1hLmFwcC50YXIuZ3oKeHlyeHhKdVhPNjZrUzdyeW5icWlkMCt2OHRRM25pbU51VzhNWjJ3ZGtuZVEvdjNFT05ES3dkUHNGdjFjTTVWSGVIVkIzQnhlVWhZcUdQVHhkMDBCQnc9PQo="
+      "url": "https://github.com/KiyoshiTheDevil/Kodama-dist/releases/download/v1.0.0-alpha.7/Kodama.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdm9zakx2MG5Qa2p2ckNxOENFeG1FaGRTVk9OUDlSVVZNNFpUdVRPTUdLWC8rc2RTOTBKQUZHbG9idXhEQ1puY1JSTzFwMmROZHB1cDJOODFwNHFYdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMDg2NTA0CWZpbGU6S29kYW1hLmFwcC50YXIuZ3oKU0ZDTFd0bW45M0hNcXROREI3WUVkM3JQOVhoQkpHYnRYSm5kK0xPZU12RHY2WndQV29CNTV1dnoydjFEOGZlS0FBWEpETDhBVmdZSXllNnpZVDk0QUE9PQo="
     }
   }
 }
