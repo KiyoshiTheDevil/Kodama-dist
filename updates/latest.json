@@ -1,15 +1,15 @@
 {
-  "version": "v1.0.0-alpha.14",
-  "pub_date": "2026-06-22T19:46:39Z",
-  "notes": "Kodama v1.0.0-alpha.14",
+  "version": "v1.0.0-alpha.15",
+  "pub_date": "2026-06-22T20:36:27Z",
+  "notes": "Kodama v1.0.0-alpha.15",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://api.github.com/repos/KiyoshiTheDevil/Kodama-dist/releases/assets/454899151",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdmc4aVdQNFNBTUFtNjZYVW9obGtZK2JpWGxXZVdrYm5iV2VQS1ZSbUs4OElWWVJTclkrWEVmTmZlUjd3Z2o2eFBnejViaFpMUEhUUDIxU0h2TGs3K2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTU3NDM1CWZpbGU6S29kYW1hXzEuMC4wLWFscGhhLjE0X3g2NC1zZXR1cC5leGUKaXJ4T2VCbUhUU0FRNnNKU1JBWnVQNURYSFNTSVhORjdycnNUNzBwRHNzSFU5a1d0THdGaitlcVE2TmxNbmNRVk5uOHlXa2J0aTlNZ095a0UzY2lnQ0E9PQo="
+      "url": "https://api.github.com/repos/KiyoshiTheDevil/Kodama-dist/releases/assets/454934070",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdnErbWJmQW9EdEN1UU1RRUhGMDRlMm1SdDdYbmg3bzNOVk43MHRKclJIcVI1azZiUDdjZWQ5cm5mZHlIc0tDOU5QYmxveVduVVlKQjJKVDBlZFUySXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTYwNDE4CWZpbGU6S29kYW1hXzEuMC4wLWFscGhhLjE1X3g2NC1zZXR1cC5leGUKQnhtNHE3Q1RucElBVHFlOFcwS0poNWFDZUVEam1UQkkzMForeGFVQnFvLzJ2TXVOR3QrZVNFV29XbFlXUUR6YkRoSXdSU21mNVk0UHRaZGdFU20vQ0E9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://api.github.com/repos/KiyoshiTheDevil/Kodama-dist/releases/assets/454899148",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdm1IUy9ZU0VscXIvaHduR3NqUjZRYjh3YmxxZm9uazQyaWNmdlJiMmFaVlFXQ2JyMFoyNjlnemwrdi9xSjFDd29abEpyTmVzcjRlWkNuaFFES0t3c2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTU2MjQ1CWZpbGU6S29kYW1hLmFwcC50YXIuZ3oKMlB5dVdEaUZVTk9jVnpOKzRsUjRRTURRSlZRWThrYWpPMGt5bm43TlJVOHRxOUxUWGpNSkJmRCtwNDB0Znh5RzdzeVI4MXRDMXpwV0JtQmN6Wk1wQ3c9PQo="
+      "url": "https://api.github.com/repos/KiyoshiTheDevil/Kodama-dist/releases/assets/454934069",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMks4N0FOVGUxdm9ueGo5aCt5MzV4akFKNks3LzMrckQybzU5QUJJTHZtMGxoVlVzb2RiMEJ0R2RGZXEwMjhML0tvVWZSQklHcGloWkFhcmZzTVFmTFB4RDYyVHhvZWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTU5MjgwCWZpbGU6S29kYW1hLmFwcC50YXIuZ3oKR0dnandBekYvSHJWVFhhNUF1dkhOc2xkS29zUHg5UUhGUnZKbW5ZUGJCL1FrNmpUNUdTTmZ4c014VlhLTFQwQmVZWFZxeWVMSE5YZHMyTzRFMkpPQVE9PQo="
     }
   }
 }
